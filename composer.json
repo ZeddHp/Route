@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "nikic/fast-route": "^1.3"
+    }
+}
